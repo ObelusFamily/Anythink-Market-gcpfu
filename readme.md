@@ -11,3 +11,10 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 ## First setup
 
 **[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
+
+
+1) Download docker via terminal on macbook and execute commands on the webpage.
+
+2) with github desktop(Make sure respoirtory is in correct place!) clone repo and use the terminal to execute functions.
+
+3) Use the terminal to create pull request.
